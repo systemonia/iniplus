@@ -24,7 +24,9 @@ Please create a new issue if there are any bugs or anything. The config file par
 
 TODO. Documentation.
 
-To use iniplus, you can import the entire library *or* only the features you want.
+Install iniplus by running `nimble install iniplus`
+
+Then, you can import the entire library *or* only the features you want.
 ```nim
 
 # Imports the entire library
